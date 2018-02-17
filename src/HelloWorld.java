@@ -11,5 +11,7 @@ public class HelloWorld
 
         System.out.println("Hello World from dev branch again!");
 
+        System.out.println("Hello World from master branch again!");
+
     }
 }
